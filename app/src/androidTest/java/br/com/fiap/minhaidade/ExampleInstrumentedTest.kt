@@ -21,5 +21,4 @@ class ExampleInstrumentedTest {
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("br.com.fiap.minhaidade", appContext.packageName)
     }
-    /* testando para a elo */
 }
